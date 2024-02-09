@@ -6,9 +6,9 @@
 
 # # Connect to MySQL database
 # conn = mysql.connector.connect(
-#     host='localhost',
-#     user='pavan',
-#     password='Manchinti@1995',
+#     host='database-1',
+#     user='seshu',
+#     password='seshureddy',
 #     database='pavan'
 # )
 # cursor = conn.cursor()
